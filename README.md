@@ -1,7 +1,7 @@
 # 运行Easyweb节点
 您可以在您自己的服务器上通过 Easyweb节点 运行您的 Easyweb应用。
 
-#步骤
+# 步骤
 1. 在 http://easyweb.fun 上创建的你应用
 2. 在 http://easyweb.fun/me 的 应用设置 中把 网站部署在外 设为True
 3. 下载该repo中的servo文件夹, 并运行 python3 -m servo.update 。
